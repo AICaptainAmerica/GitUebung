@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         name = "Martin";
         zweiterName = "Martin2";
+        int a = 0;
 
     }
 }
